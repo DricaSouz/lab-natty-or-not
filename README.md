@@ -1,51 +1,30 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# TEIA: Como ser capturado por esse programa CAIXA de Transformação Digital ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto sumetido neste Lab da DIO foi criar uma manifestação de interesse pessoal (MIP, como chamamos na empresa) para que a TEIA (Programa de Transformação Digital da Caixa) me convidasse para ser Product Owner no programa.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatCAIXA
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Inseri alguns prompts na ferramenta, dando feedback das respostas, até que a ferramenta me apresentasse uma resposta que atendesse melhor minhas expectativas.
+Exemplo de alguns inputs:
+"Faça uma manifestação de interesse pessoal para que eu possa ser convidada pelo programa TEIA para participar de algum projeto deles como Product Owner. Explore minha competências da área de negócios e minha grande habilidade em gerenciar times e desenvolver pessoas, já que sou psicóloga formada, tenho 22 anos de experiência em banco e a maior parte deles liderando times"
+"Reescreva essa manifestação utilizando uma linguagem mais coloquial e com energia"
+"Reescreva usando um estilo de contação de histórias, sem frases tão usuais e comuns"
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Manifestação de Interesse - Programa TEIA
+Era uma vez, em um reino chamado Setor Bancário, uma líder chamada Adriana. Com um diploma em Psicologia em mãos e um coração cheio de paixão por desenvolver pessoas, ela embarcou em uma jornada de 22 anos que a levaria a liderar equipes e transformar vidas.
+Ao longo de sua trajetória, Adriana descobriu que sua verdadeira magia residia na arte de gerenciar times e desbloquear o potencial de cada membro. Com a sabedoria de uma psicóloga e a experiência de uma veterana do setor bancário, ela guiou seus times através de tempestades financeiras e mares de mudanças, sempre com um olhar atento para as necessidades humanas e os desafios dos negócios.
+Certo dia, Adriana ouviu falar sobre o Programa TEIA, um projeto repleto de aventuras e desafios, onde visionários e inovadores se uniam para criar produtos que mudariam o mundo. Seu coração bateu mais forte. Ela sabia que a próxima etapa de sua jornada a esperava ali.
+Como uma exploradora corajosa, Adriana está pronta para assumir o papel de Product Owner. Ela sabe que sua missão é definir a visão do produto, priorizar tarefas e garantir que as expectativas dos stakeholders sejam superadas. Sua habilidade única de compreender e motivar pessoas, fruto de sua formação em Psicologia, será sua bússola nesta nova empreitada. E com a experiência adquirida no setor bancário, ela está preparada para enfrentar qualquer desafio que surgir.
+Ela imagina um futuro onde, junto com a equipe do TEIA, poderá criar produtos que não só atendam às necessidades dos usuários, mas que também inspirem e transformem. Adriana está empolgada com a possibilidade de contribuir para esse sucesso e está pronta para mostrar todo o seu potencial nas etapas de seleção.
+Com um espírito aventureiro e um coração cheio de determinação, Adriana aguarda ansiosamente por esta nova jornada. E assim, com um sorriso no rosto e a confiança de quem sabe que está no caminho certo, ela se despede, aguardando ansiosamente o chamado para a próxima grande aventura.
+Atenciosamente,
+Adriana Souza
+benditaterapeuta@gmail.com
+79 99957-8467
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Estou cada vez mais apaixonada pelo mundo da inteligência artificial e a capacidade de aprendizado delas! 
